@@ -59,11 +59,17 @@ File Structure
 
 TransportChallan/
 │── Transport_Challan.py    # Handles challan generation logic
+
 │── tempcodefile.py         # GUI implementation (Main application)
+
 │── Data/
+
 │   ├── company_data.json   # Stores supplier data
+
 │   ├── transport_data.json # Stores customer data
+
 │── generated_challans/     # Auto-generated challan Excel files
+
 │── README.md               # Documentation
 
 Contact
